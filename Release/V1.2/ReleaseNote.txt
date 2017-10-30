@@ -1,0 +1,6 @@
+------------------------------------------------------------------
+Version: V1.2
+Date: 2017-9-5
+Change History:
+1. support axis edit
+2. display delta of tracker value
