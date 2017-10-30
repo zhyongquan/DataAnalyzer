@@ -1,9 +1,8 @@
 # DataAnalyzer
 This is for dat(MDF, Measurement Data Format) file analyze.
-Send me email zhyqestudy@163.com for more information.
 # Source Code
-This software is developed by WPF.
-Send me email zhyqestudy@163.com for more information.
+This software is developed by .Net WPF.
+Send me email zhyongquan@gmail.com for more information.
 # 3rd Party Libary
 1. OxyPlot: drawing. 
 2. PropertyTools: property editor.
